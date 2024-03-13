@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Fx-Cal/static/css/main.dbf43d0a.css",
-    "main.js": "/Fx-Cal/static/js/main.14f0b4bf.js",
+    "main.css": "/Fx-Cal/static/css/main.432363cd.css",
+    "main.js": "/Fx-Cal/static/js/main.6e3eb76c.js",
     "static/js/592.600b313c.chunk.js": "/Fx-Cal/static/js/592.600b313c.chunk.js",
     "index.html": "/Fx-Cal/index.html",
-    "main.dbf43d0a.css.map": "/Fx-Cal/static/css/main.dbf43d0a.css.map",
-    "main.14f0b4bf.js.map": "/Fx-Cal/static/js/main.14f0b4bf.js.map",
+    "main.432363cd.css.map": "/Fx-Cal/static/css/main.432363cd.css.map",
+    "main.6e3eb76c.js.map": "/Fx-Cal/static/js/main.6e3eb76c.js.map",
     "592.600b313c.chunk.js.map": "/Fx-Cal/static/js/592.600b313c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbf43d0a.css",
-    "static/js/main.14f0b4bf.js"
+    "static/css/main.432363cd.css",
+    "static/js/main.6e3eb76c.js"
   ]
 }
