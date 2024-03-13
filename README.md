@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# Fx-Cal Currency Converter
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application provides real-time exchange rates on visit and supports a wide range of currencies from around the world.
+https://kkchengaf.github.io/Fx-Cal/
 
-## Available Scripts
+## Disclaimer: 
+The currency converter provided by this app is for informational purposes only. While we strive to provide accurate and up-to-date exchange rates, we cannot guarantee the accuracy, completeness, or reliability of the information displayed. Exchange rates fluctuate constantly, and the rates shown may not reflect the current market rates.
 
-In the project directory, you can run:
+The conversion rates provided by this app are based on publicly available sources and may not include any fees or charges that may be applied by financial institutions or intermediaries during currency conversion. It is advisable to consult with a qualified financial professional or your bank before making any financial decisions based on the information provided by this app.
 
-### `npm start`
+We do not endorse or recommend any specific currency exchange service or financial institution mentioned in this app. Users are solely responsible for their own financial decisions and should exercise caution and diligence when using the currency converter.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+By using this app, you acknowledge that the currency conversion rates are provided "as is" without any warranties, express or implied. We shall not be liable for any damages, losses, or expenses arising from the use of or reliance on the information provided by this app.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Please note that the currency converter app is not intended for trading or investment purposes. If you require accurate and real-time exchange rates for commercial or financial transactions, we recommend consulting with a professional currency exchange service or financial institution.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+By using this app, you agree to the terms and conditions outlined in this disclaimer. If you do not agree with any part of this disclaimer, please refrain from using the currency converter app.
